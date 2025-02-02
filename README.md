@@ -10,5 +10,3 @@ Personalized greeting with the recipient's name.
 Animated balloons and decorative elements.
 Heartwarming message to express your feelings.
 Embedded audio player with a romantic song.
-
-

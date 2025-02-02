@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swapniltake1"
+    "url": "git+https://github.com/ahmar46"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Swapnil Take",
-  "modification": "swapniltake1",
+  "author": "Ahmar Ali Khan",
+  "modification": "ahmar46",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/swapniltake1/valentine-day-special/issues"
+    "url": "https://github.com/ahmar46/14feb/issues"
   },
-  "homepage": "https://github.com/swapniltake1/valentine-day-special/#readme"
+  "homepage": "https://github.com/ahmar46/14feb/#readme"
 }
